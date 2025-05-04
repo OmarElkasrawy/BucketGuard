@@ -1,0 +1,11 @@
+Category,Details
+Bucket Name,misconfigured-dummy2
+Date of Report,2025-02-04_21-52-55
+
+🔍 Security Findings
+public_access,✅ No bucket policy found (Private by default).
+block_public_access,✅ 'Block All Public Access' is ENABLED.
+encryption,✅ Encryption is ENABLED using: aws:kms (KMS Key: arn:aws:-****-****-****-c84e94)
+
+⚠️ Recommended Fixes
+None,

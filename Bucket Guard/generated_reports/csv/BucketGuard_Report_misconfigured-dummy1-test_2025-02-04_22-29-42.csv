@@ -1,0 +1,11 @@
+Category,Details
+Bucket Name,misconfigured-dummy1-test
+Date of Report,2025-02-04_22-29-42
+
+Security Findings
+public_access, No bucket policy found Private by default
+block_public_access, Block All Public Access is ENABLED
+encryption, Encryption is ENABLED using: AES256
+
+Recommended Fixes
+None,

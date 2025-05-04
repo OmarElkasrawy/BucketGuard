@@ -1,0 +1,12 @@
+BucketGuard Security Report
+===========================
+Bucket Name: misconfigured-dummy2
+Date of Report: 2025-02-04_21-40-35
+
+🔍 Security Findings:
+- ✅ No bucket policy found (Private by default).
+- ⚠️ WARNING: 'Block All Public Access' is DISABLED!
+- ✅ Encryption is ENABLED using: aws:kms (KMS Key: arn:aws:-****-****-****-c84e94)
+
+⚠️ Recommended Fixes:
+- Enable 'Block All Public Access' in the bucket settings.

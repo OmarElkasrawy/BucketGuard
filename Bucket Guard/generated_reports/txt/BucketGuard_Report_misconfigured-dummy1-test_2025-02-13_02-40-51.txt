@@ -1,0 +1,12 @@
+BucketGuard Security Report
+===========================
+Bucket Name: misconfigured-dummy1-test
+Date of Report: 2025-02-13_02-40-51
+
+🔍 Security Findings:
+- ✅ No bucket policy found (Private by default).
+- ⚠️ WARNING: 'Block All Public Access' is DISABLED!
+- ✅ Encryption is ENABLED using: AES256
+
+⚠️ Recommended Fixes:
+- Enable 'Block All Public Access' in the bucket settings.
