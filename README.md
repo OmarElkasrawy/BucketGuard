@@ -105,7 +105,6 @@ The tool can automatically fix the following issues:
 
 - Remove public access
 - Enable versioning
-- Configure encryption
 - Enable public access block
 
 ## 📝 License
